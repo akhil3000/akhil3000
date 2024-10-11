@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akhil3000.github.io/Portfolio-Website/](https://akhil3000.github.io/Portfolio-Website/)
 
-- 💬 Ask me about **FullStack Development,Problem Solving,Product Based Companies Preparation,Entrepreneurship**
+- 💬 Ask me about **FullStack Development,Problem Solving,Product Based Companies Preparation**
 
 - 📫 How to reach me **akhilpolisetty456@gmail.com**
 
