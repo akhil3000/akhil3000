@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate FullStack WebDeveloper,Problem Solver & CS Grad</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqPrnzS8VbVVty33X9b77FoURtLcq52oIqw&usqp=CAU" />
 
-- 🌱 I’m currently learning **JavaScript,React,Node,SpringBoot,AWS,Java+DSA**
+- 🌱 I’m currently learning **JavaScript,React,Node,Next Js,SpringBoot,AWS,Java+DSA**
 
 - 👨‍💻 All of my projects are available at [https://akhil3000.github.io/Portfolio-Website/](https://akhil3000.github.io/Portfolio-Website/)
 
